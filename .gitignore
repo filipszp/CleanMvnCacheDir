@@ -1,0 +1,12 @@
+out/production/CleanDirGroovy/NonSnapshotDirectoryFilter.class
+out/production/CleanDirGroovy/DirectoryFilter.class
+out/production/CleanDirGroovy/Configuration.class
+out/production/CleanDirGroovy/CleanDir.class
+out/production/CleanDirGroovy/CleanDir$_printResultOfCleanAction_closure4.class
+out/production/CleanDirGroovy/CleanDir$_obtainHighestVersionOfArtifact_closure2.class
+out/production/CleanDirGroovy/CleanDir$_cleanMavenRepository_closure1.class
+out/production/CleanDirGroovy/CleanDir$_calculateDirectorySize_closure3.class
+CleanDirGroovy.iml
+.idea/workspace.xml
+.idea/modules.xml
+.idea/misc.xml
